@@ -30,8 +30,8 @@ cake = pygame.transform.scale(cake, [100, 100])
 screen.blit(cake, [400, 180])
 
 mook = pygame.image.load('mook.png')
-mook = pygame.transform.scale(mook, [38, 38])
-screen.blit(mook, [390, 320])
+mook = pygame.transform.scale(mook, [50, 50])
+screen.blit(mook, [20, 200])
 
 font = pygame.font.Font(pygame.font.match_font('Times New Roman'), 20)
 text = font.render("Tere, olen Alex Karu", True, [255, 255, 255])
