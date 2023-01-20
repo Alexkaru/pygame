@@ -16,9 +16,15 @@ chat = pygame.image.load('chat.png')
 chat = pygame.transform.scale(chat, [250, 200])
 screen.blit(chat, [250, 70])
 
-vikklogo = pygame.image.load('vikklogo2.jpg')
-vikklogo = pygame.transform.scale(vikklogo, [300, 50])
-screen.blit(vikklogo, [0, 0])
+vikklogo = pygame.image.load('vikklogo.png')
+vikklogo = pygame.transform.scale(vikklogo, [320, 45])
+screen.blit(vikklogo, [10, 10])
+pygame.draw.line(screen, [255, 255, 255], [10, 10], [265, 10], 1)
+pygame.draw.line(screen, [255, 255, 255], [10, 55], [265, 55], 1)
+pygame.draw.line(screen, [255, 255, 255], [10, 10], [10, 55], 1)
+pygame.draw.line(screen, [255, 255, 255], [240, 10], [240, 55], 1)
+pygame.draw.arc(screen, [255, 255, 255], [240, 10, 55, 55], 1.6, 3.14, 1)
+
 
 font = pygame.font.Font(pygame.font.match_font('Times New Roman'), 20)
 text = font.render("Tere, olen Alex Karu", True, [255, 255, 255])
