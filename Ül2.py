@@ -23,8 +23,15 @@ pygame.draw.line(screen, [255, 255, 255], [10, 10], [265, 10], 1)
 pygame.draw.line(screen, [255, 255, 255], [10, 55], [265, 55], 1)
 pygame.draw.line(screen, [255, 255, 255], [10, 10], [10, 55], 1)
 pygame.draw.line(screen, [255, 255, 255], [240, 10], [240, 55], 1)
-pygame.draw.arc(screen, [255, 255, 255], [240, 10, 55, 55], 1.6, 3.14, 1)
+pygame.draw.arc(screen, [255, 255, 255], [228, 8, 50, 50], -3.14/3, 1)
 
+cake = pygame.image.load('cake.png')
+cake = pygame.transform.scale(cake, [100, 100])
+screen.blit(cake, [400, 180])
+
+mook = pygame.image.load('mook.png')
+mook = pygame.transform.scale(mook, [38, 38])
+screen.blit(mook, [390, 320])
 
 font = pygame.font.Font(pygame.font.match_font('Times New Roman'), 20)
 text = font.render("Tere, olen Alex Karu", True, [255, 255, 255])
