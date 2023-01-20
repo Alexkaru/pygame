@@ -16,6 +16,10 @@ chat = pygame.image.load('chat.png')
 chat = pygame.transform.scale(chat, [250, 200])
 screen.blit(chat, [250, 70])
 
+vikklogo = pygame.image.load('vikklogo2.jpg')
+vikklogo = pygame.transform.scale(vikklogo, [300, 50])
+screen.blit(vikklogo, [0, 0])
+
 font = pygame.font.Font(pygame.font.match_font('Times New Roman'), 20)
 text = font.render("Tere, olen Alex Karu", True, [255, 255, 255])
 text_width = text.get_rect().width
