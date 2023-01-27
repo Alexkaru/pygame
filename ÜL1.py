@@ -22,3 +22,6 @@ while running:
         #  laseb avatud akna kinni panna
         if event.type == pygame.QUIT:
             running = False
+
+    pygame.display.update()
+pygame.quit()
