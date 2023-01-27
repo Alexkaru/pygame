@@ -17,7 +17,7 @@ WHITE = [255, 255, 255]  # Annab valge rgb väärtused
 
 
 class Square:  # Loob Square classi
-    def __init__(self, color, sizea, sizeb, colorbg):  # Loob klassist objekti
+    def __init__(self, color, sizea, sizeb, colorbg):
         self.color = color
         self.sizea = sizea
         self.sizeb = sizeb

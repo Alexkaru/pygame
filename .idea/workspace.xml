@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00cdaf68-a243-4a0f-9f0e-b0997f758beb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Ül3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ül3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;last_opened_file_path&quot;: &quot;C:/Users/alex.karu/Desktop/pythonProject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.project&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -269,7 +269,19 @@
       <option name="presentableId" value="LOCAL−00013" />
       <updated>1674820755592</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL−00014" summary="k">
+      <created>1674821102494</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1674821102494</updated>
+    </task>
+    <task id="LOCAL−00015" summary="k">
+      <created>1674821140701</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1674821140701</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
