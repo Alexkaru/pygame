@@ -34,7 +34,7 @@ class Square:  # Loob Square classi
             y += 18
 
 
-Square.make_square(Square(GREEN, 15, 15, BLACK))  # Teeb ruudud
+Square.make_square(Square(GREEN, 15, 15, BLACK))  # Teeb ruudud (ruudu värv, suurs1, suurus2, tagatausta värv)
 
 pygame.display.flip()
 # jätab avatud akna ekraanile
