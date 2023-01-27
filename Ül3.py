@@ -13,17 +13,19 @@ PINK = [255, 51, 204]  # Annab roosa rgb väärtused
 PURPLE = [204, 0, 255]  # Annab lillga rgb väärtused
 BLACK = [0, 0, 0]  # Annab musta rgb väärtused
 WHITE = [255, 255, 255]  # Annab valge rgb väärtused
-screen.fill(RED)  # Täidab ekraani punasega
+# screen.fill(RED)  # Täidab ekraani punasega
 
 
 class Square:  # Loob Square classi
-    def __init__(self, color, sizea, sizeb):  # Loob klassist objekti
+    def __init__(self, color, sizea, sizeb, colorbg):  # Loob klassist objekti
         self.color = color
         self.sizea = sizea
         self.sizeb = sizeb
+        self.colorbg = colorbg
 
     def make_square(self):  # Funktsioon ruutude tegemiseks
         y = 1
+        screen.fill(self.colorbg)  # Täidab ekraani värviga
         for i in range(35):
             x = 1
             for j in range(38):
@@ -32,7 +34,7 @@ class Square:  # Loob Square classi
             y += 18
 
 
-Square.make_square(Square(GREEN, 15, 15))  # Teeb ruudud
+Square.make_square(Square(GREEN, 15, 15, BLACK))  # Teeb ruudud
 
 pygame.display.flip()
 # jätab avatud akna ekraanile
