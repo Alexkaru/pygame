@@ -26,15 +26,15 @@ class Square:  # Loob Square classi
     def make_square(self):  # Funktsioon ruutude tegemiseks
         y = 1
         screen.fill(self.colorbg)  # Täidab ekraani värviga
-        for i in range(35):
+        for i in range(0, 35, 1):
             x = 1
-            for j in range(38):
+            for j in range(0, 38, 1):
                 pygame.draw.rect(screen, self.color, [x, y, self.sizea, self.sizeb])
                 x += 18
             y += 18
 
 
-Square.make_square(Square(GREEN, 15, 15, BLACK))  # Teeb ruudud (ruudu värv, suurs1, suurus2, tagatausta värv)
+Square.make_square(Square(GREEN, 15, 15, RED))  # Teeb ruudud (ruudu värv, suurs1, suurus2, tagatausta värv)
 
 pygame.display.flip()
 # jätab avatud akna ekraanile
