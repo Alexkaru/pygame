@@ -8,8 +8,9 @@ white = (255, 255, 255)
 yellow = (255, 255, 102)
 black = (0, 0, 0)
 red = (213, 50, 80)
-green = (0, 255, 0)
+green = (0, 153, 0)
 blue = (50, 153, 213)
+snakle = (204, 0, 153)
 
 dis_width = 600
 dis_height = 400
@@ -27,13 +28,13 @@ score_font = pygame.font.SysFont("times New Roman", 30)
 
 
 def skoor(score):
-    value = score_font.render("Sinu skoor: " + str(score), True, yellow)
+    value = score_font.render("Sinu skoor: " + str(score), True, black)
     dis.blit(value, [0, 0])
 
 
 def our_snake(snake_block, snake_list):
     for x in snake_list:
-        pygame.draw.rect(dis, black, [x[0], x[1], snake_block, snake_block])
+        pygame.draw.rect(dis, snakle, [x[0], x[1], snake_block, snake_block])
 
 
 def message(msg, color):
@@ -60,7 +61,7 @@ def manguloop():
     while not game_over:
 
         while game_close == True:
-            dis.fill(blue)
+            dis.fill(green)
             message("You Lost! Press C-Play Again or Q-Quit", red)
             skoor(ussi_pikkus - 1)
             pygame.display.update()
@@ -94,8 +95,8 @@ def manguloop():
             game_close = True
         x1 += x1_change
         y1 += y1_change
-        dis.fill(blue)
-        pygame.draw.rect(dis, green, [foodx, foody, snake_block, snake_block])
+        dis.fill(green)
+        pygame.draw.rect(dis, black, [foodx, foody, snake_block, snake_block])
         ussi_pea = []
         ussi_pea.append(x1)
         ussi_pea.append(y1)

@@ -26,11 +26,11 @@ vikklogo = pygame.transform.scale(vikklogo, [320, 45])
 screen.blit(vikklogo, [10, 10])
 
 # Blokk lisab vikk logo ümber jooned
-pygame.draw.line(screen, [255, 255, 255], [10, 10], [265, 10], 1)
-pygame.draw.line(screen, [255, 255, 255], [10, 55], [265, 55], 1)
-pygame.draw.line(screen, [255, 255, 255], [10, 10], [10, 55], 1)
-pygame.draw.line(screen, [255, 255, 255], [240, 10], [240, 55], 1)
-pygame.draw.arc(screen, [255, 255, 255], [228, 8, 50, 50], -3.14/3, 1)  # Lisab kaare vikk logo paremasse äärde
+pygame.draw.line(screen, [255, 255, 255], [10, 10], [265, 10], 1)  # [värv], [alg_pos], [lõpp_pos], joonepaksus
+pygame.draw.line(screen, [255, 255, 255], [10, 55], [265, 55], 1)  # [värv], [alg_pos], [lõpp_pos], joonepaksus
+pygame.draw.line(screen, [255, 255, 255], [10, 10], [10, 55], 1)  # [värv], [alg_pos], [lõpp_pos], joonepaksus
+pygame.draw.line(screen, [255, 255, 255], [240, 10], [240, 55], 1)  # [värv], [alg_pos], [lõpp_pos], joonepaksus
+pygame.draw.arc(screen, [255, 255, 255], [228, 8, 50, 50], -3.14/3, 1)  # [värv] [rect_kordinaadid], [nurk], joonepaksus
 
 # Blokk Lisab koogi ja muudab selle suurust ja asukohta ekraanil
 cake = pygame.image.load('cake.png')
