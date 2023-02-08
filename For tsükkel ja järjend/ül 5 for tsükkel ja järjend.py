@@ -2,7 +2,7 @@
 arvud = []
 
 
-def int_list(arv):
+def arvude_jarjend(arv):
     summ = 0
     for n in arv:
         summ += n
@@ -11,5 +11,4 @@ def int_list(arv):
 
 if arvud == []:
     print(0)
-print(int_list(arvud))
-
+print(arvude_jarjend(arvud))
