@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00cdaf68-a243-4a0f-9f0e-b0997f758beb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/For tsükkel ja järjend/ül 6 for tsükkel ja järjend.py" beforeDir="false" afterPath="$PROJECT_DIR$/For tsükkel ja järjend/ül 6 for tsükkel ja järjend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/For tsükkel ja järjend/ül 4 for tsükkel ja järjend.py" beforeDir="false" afterPath="$PROJECT_DIR$/For tsükkel ja järjend/ül 4 for tsükkel ja järjend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/For tsükkel ja järjend/ül 5 for tsükkel ja järjend.py" beforeDir="false" afterPath="$PROJECT_DIR$/For tsükkel ja järjend/ül 5 for tsükkel ja järjend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/For tsükkel ja järjend/ül1 for tsükkel ja järjend.py" beforeDir="false" afterPath="$PROJECT_DIR$/For tsükkel ja järjend/ül1 for tsükkel ja järjend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/For tsükkel ja järjend/ül2 for tsükkel ja järjend.py" beforeDir="false" afterPath="$PROJECT_DIR$/For tsükkel ja järjend/ül2 for tsükkel ja järjend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/For tsükkel ja järjend/ül3 for tsükkel ja järjend.py" beforeDir="false" afterPath="$PROJECT_DIR$/For tsükkel ja järjend/ül3 for tsükkel ja järjend.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -389,7 +394,13 @@
       <option name="presentableId" value="LOCAL−00032" />
       <updated>1675840164549</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL−00033" summary="k">
+      <created>1675840536330</created>
+      <option name="number" value="LOCAL−00033" />
+      <option name="presentableId" value="LOCAL−00033" />
+      <updated>1675840536330</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
