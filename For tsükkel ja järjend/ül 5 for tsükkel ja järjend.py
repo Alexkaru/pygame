@@ -12,3 +12,4 @@ def arvude_jarjend(arv):  # funktsioon, mis lisab järjendis aru prindib selle v
 if arvud == []:  # kui arvud on tühi list prindib null
     print(0)
 print(arvude_jarjend(arvud))
+

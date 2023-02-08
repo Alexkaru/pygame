@@ -13,3 +13,4 @@ for arv in arvud:  # tsükkel, mis kontrollib, kas arv on paaris või paaritu
 
 print('Paaris arve on: ', paaris)  # prindib paaris arvud
 print('Paarituid arve on: ', paaritu)  # prindib paaritud arvud
+
