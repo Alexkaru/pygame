@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00cdaf68-a243-4a0f-9f0e-b0997f758beb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygame/bg_shop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/Ül2 pildid/bg_shop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygame/chat.png" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/Ül2 pildid/chat.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygame/seller.png" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/Ül2 pildid/seller.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygame/Ül2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/Ül2.py" afterDir="false" />
-    </list>
+    <list default="true" id="00cdaf68-a243-4a0f-9f0e-b0997f758beb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -425,7 +419,13 @@
       <option name="presentableId" value="LOCAL−00037" />
       <updated>1675845223996</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL−00038" summary="k">
+      <created>1676358920149</created>
+      <option name="number" value="LOCAL−00038" />
+      <option name="presentableId" value="LOCAL−00038" />
+      <updated>1676358920149</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
