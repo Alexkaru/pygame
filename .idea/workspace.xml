@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00cdaf68-a243-4a0f-9f0e-b0997f758beb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Ül4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame/Snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/Snake/Snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\alex.karu\Desktop\pythonProject\pygame\Snake.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\alex.karu\Desktop\pythonProject\pygame\Snake\Snake.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -470,7 +469,31 @@
       <option name="presentableId" value="LOCAL−00045" />
       <updated>1676362298161</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL−00046" summary="k">
+      <created>1676363124032</created>
+      <option name="number" value="LOCAL−00046" />
+      <option name="presentableId" value="LOCAL−00046" />
+      <updated>1676363124032</updated>
+    </task>
+    <task id="LOCAL−00047" summary="k">
+      <created>1676363192131</created>
+      <option name="number" value="LOCAL−00047" />
+      <option name="presentableId" value="LOCAL−00047" />
+      <updated>1676363192131</updated>
+    </task>
+    <task id="LOCAL−00048" summary="k">
+      <created>1676363330200</created>
+      <option name="number" value="LOCAL−00048" />
+      <option name="presentableId" value="LOCAL−00048" />
+      <updated>1676363330200</updated>
+    </task>
+    <task id="LOCAL−00049" summary="k">
+      <created>1676363351459</created>
+      <option name="number" value="LOCAL−00049" />
+      <option name="presentableId" value="LOCAL−00049" />
+      <updated>1676363351459</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
