@@ -15,10 +15,18 @@ b = [1, 2, 3]
 #  print(c)
 
 #  ÜL4
-g = 0
-while True:
-    print(a[g])
-    g += 1
+#  g = 0
+#  while True:
+#      print(a[g])
+#      g += 1
+#      if len(a) == g:
+#          break
 
-    if len(a) == g:
-        break
+#  ÜL5
+
+
+#  ÜL6
+#  q = 0
+#  for i in range(len(b)):
+#      print(b[q])
+#      q += 1
