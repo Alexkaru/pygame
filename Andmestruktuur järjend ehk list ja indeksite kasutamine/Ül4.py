@@ -21,5 +21,5 @@
 #  ÜL5
 #  korrutis = 1
 #  for i in range(1,6,2):
-#      korrutis *= i
+#      korrutis = korrutis * i
 #  print(korrutis)
