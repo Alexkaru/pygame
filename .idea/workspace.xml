@@ -2,7 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00cdaf68-a243-4a0f-9f0e-b0997f758beb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pygame/Snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/Snake/Snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Ül1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/ÜL 1/Ül1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Ül2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/ÜL 2/Ül2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Ül3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/ÜL 3/Ül3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Ül4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/ÜL 3/Ül4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E - õppenädal/ÜL 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/E - õppenädal/ÜL 2/ÜL 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E - õppenädal/ÜL 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/E - õppenädal/ÜL 3/ÜL 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E - õppenädal/ÜL 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/E - õppenädal/ÜL 4/ÜL 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E - õppenädal/ÜL 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/E - õppenädal/ÜL 5/ÜL 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E - õppenädal/ÜL 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/E - õppenädal/ÜL 6/ÜL 6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E - õppenädal/ÜL 7.py" beforeDir="false" afterPath="$PROJECT_DIR$/E - õppenädal/ÜL 7/ÜL 7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E - õppenädal/ÜL 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/E - õppenädal/ÜL 8/ÜL 8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E - õppenädal/ÜL 9.py" beforeDir="false" afterPath="$PROJECT_DIR$/E - õppenädal/ÜL 9/ÜL 9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E - õppenädal/ül 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/E - õppenädal/ÜL 1/ül 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame/ÜL1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/ÜL 1/ÜL1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame/Ül2 pildid/bg_shop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/ÜL 2/bg_shop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame/Ül2 pildid/cake.png" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/ÜL 2/cake.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame/Ül2 pildid/chat.png" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/ÜL 2/chat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame/Ül2 pildid/mook.png" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/ÜL 2/mook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame/Ül2 pildid/seller.png" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/ÜL 2/seller.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame/Ül2 pildid/vikklogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/ÜL 2/vikklogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame/Ül2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/ÜL 2/Ül2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame/Ül3.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/ÜL 3/Ül3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +69,11 @@
       <recent name="C:\Users\alex.karu\Desktop\pythonProject" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\alex.karu\Desktop\pythonProject\pygame\Ül2 pildid" />
-      <recent name="C:\Users\alex.karu\Desktop\pythonProject\pygame" />
-      <recent name="C:\Users\alex.karu\Desktop\pythonProject\For tsükkel ja järjend" />
+      <recent name="C:\Users\alex.karu\Desktop\pythonProject\pygame\ÜL 2" />
+      <recent name="C:\Users\alex.karu\Desktop\pythonProject\pygame\ÜL 3" />
+      <recent name="C:\Users\alex.karu\Desktop\pythonProject\pygame\ÜL 1" />
+      <recent name="C:\Users\alex.karu\Desktop\pythonProject\Andmestruktuur järjend ehk list ja indeksite kasutamine\ÜL 3" />
+      <recent name="C:\Users\alex.karu\Desktop\pythonProject\Andmestruktuur järjend ehk list ja indeksite kasutamine\ÜL 2" />
     </key>
   </component>
   <component name="RunManager">
@@ -150,7 +173,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\alex.karu\Desktop\pythonProject\pygame\Ül3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\alex.karu\Desktop\pythonProject\pygame\ÜL 3\Ül3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,30 +221,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673511414674</updated>
-    </task>
-    <task id="LOCAL−00001" summary="k">
-      <created>1674206222737</created>
-      <option name="number" value="LOCAL−00001" />
-      <option name="presentableId" value="LOCAL−00001" />
-      <updated>1674206222737</updated>
-    </task>
-    <task id="LOCAL−00002" summary="k">
-      <created>1674207271447</created>
-      <option name="number" value="LOCAL−00002" />
-      <option name="presentableId" value="LOCAL−00002" />
-      <updated>1674207271461</updated>
-    </task>
-    <task id="LOCAL−00003" summary="k">
-      <created>1674210870409</created>
-      <option name="number" value="LOCAL−00003" />
-      <option name="presentableId" value="LOCAL−00003" />
-      <updated>1674210870409</updated>
-    </task>
-    <task id="LOCAL−00004" summary="k">
-      <created>1674213596185</created>
-      <option name="number" value="LOCAL−00004" />
-      <option name="presentableId" value="LOCAL−00004" />
-      <updated>1674213596185</updated>
     </task>
     <task id="LOCAL−00005" summary="k">
       <created>1674216112033</created>
@@ -493,7 +492,31 @@
       <option name="presentableId" value="LOCAL−00049" />
       <updated>1676363351459</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL−00050" summary="k">
+      <created>1676363420821</created>
+      <option name="number" value="LOCAL−00050" />
+      <option name="presentableId" value="LOCAL−00050" />
+      <updated>1676363420821</updated>
+    </task>
+    <task id="LOCAL−00051" summary="k">
+      <created>1676363452643</created>
+      <option name="number" value="LOCAL−00051" />
+      <option name="presentableId" value="LOCAL−00051" />
+      <updated>1676363452643</updated>
+    </task>
+    <task id="LOCAL−00052" summary="k">
+      <created>1676363664704</created>
+      <option name="number" value="LOCAL−00052" />
+      <option name="presentableId" value="LOCAL−00052" />
+      <updated>1676363664704</updated>
+    </task>
+    <task id="LOCAL−00053" summary="k">
+      <created>1676363702787</created>
+      <option name="number" value="LOCAL−00053" />
+      <option name="presentableId" value="LOCAL−00053" />
+      <updated>1676363702787</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
