@@ -19,7 +19,7 @@ def arvude_jarjend(arv):  # funktsioon, mis lisab järjendis aru prindib selle v
         print(summa)  # prindib summa
 
     # Prindib päeva keskmise sammude arvu
-    paeva_keskmine = summa / 7
+    paeva_keskmine = summa / len(numbrid)
     print("Päeva keskmine sammude arv on: ",  paeva_keskmine)
 
     # Prindib nädala kõrgeim sammude arvu
@@ -27,5 +27,6 @@ def arvude_jarjend(arv):  # funktsioon, mis lisab järjendis aru prindib selle v
 
     # Prindib nädala mdalaima sammude arvu
     print("Nädala madalaim sammude arv on: ", min(numbrid))
+
 
 print(arvude_jarjend(numbrid))

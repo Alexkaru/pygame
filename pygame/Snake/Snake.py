@@ -4,6 +4,7 @@ import random
 
 pygame.init()
 
+# Värvide väärtused
 white = (255, 255, 255)
 yellow = (255, 255, 102)
 black = (0, 0, 0)
@@ -12,11 +13,14 @@ green = (0, 153, 0)
 blue = (50, 153, 213)
 snakle = (204, 0, 153)
 
+# ekraani suurused
 dis_width = 600
 dis_height = 400
 
+# teeb ekraani ja lisab sellele pealkirja
 dis = pygame.display.set_mode((dis_width, dis_height))
 pygame.display.set_caption('Snake Game - Alex Karu')
+
 
 clock = pygame.time.Clock()
 
