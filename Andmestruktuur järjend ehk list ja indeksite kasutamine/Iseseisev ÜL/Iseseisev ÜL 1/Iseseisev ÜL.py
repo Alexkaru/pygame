@@ -6,7 +6,7 @@ f = open('Sammud.txt', encoding='utf-8')
 for rida in f:
     nimekiri.append(rida.strip())
 f.close()
-print(nimekiri)
+
 
 # Teeb nimekiri listi milles on string väärtused numbrid listiks milles on int väärtused
 numbrid = list(map(int, nimekiri))
@@ -16,10 +16,10 @@ def arvude_jarjend(arv):  # funktsioon, mis lisab järjendis aru prindib selle v
     summa = 0
     for n in arv:  # tsükkel
         summa += n  # inkremendib summa n võrra
-        print(summa)  # prindib summa
+    print(summa)  # prindib summa
 
     # Prindib päeva keskmise sammude arvu
-    paeva_keskmine = summa / len(numbrid)
+    paeva_keskmine = round(summa / len(numbrid))
     print("Päeva keskmine sammude arv on: ",  paeva_keskmine)
 
     # Prindib nädala kõrgeim sammude arvu
