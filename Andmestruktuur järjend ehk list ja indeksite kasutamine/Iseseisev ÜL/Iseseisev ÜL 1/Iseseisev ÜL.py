@@ -23,10 +23,12 @@ def arvude_jarjend(arv):  # funktsioon, mis lisab järjendis aru prindib selle v
     print("Päeva keskmine sammude arv on: ",  paeva_keskmine)
 
     # Prindib nädala kõrgeim sammude arvu
-    print("Nädala kõrgeim sammude arv on: ", max(numbrid))
+    max_value = max(numbrid)
+    print("Nädala kõrgeim sammude arv on: ", (max(numbrid)), ",", numbrid.index(max_value), "päeval")
 
     # Prindib nädala mdalaima sammude arvu
-    print("Nädala madalaim sammude arv on: ", min(numbrid))
+    min_valu = min(numbrid)
+    print("Nädala madalaim sammude arv on: ", min(numbrid), ",", numbrid.index(min_valu), "päeval")
 
 
 print(arvude_jarjend(numbrid))

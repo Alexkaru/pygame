@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00cdaf68-a243-4a0f-9f0e-b0997f758beb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Iseseisev ÜL/Iseseisev ÜL 2/Iseseisev ÜL 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Iseseisev ÜL/Iseseisev ÜL 2/kilpkonn.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Iseseisev ÜL/Iseseisev ÜL.py" beforeDir="false" afterPath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Iseseisev ÜL/Iseseisev ÜL 1/Iseseisev ÜL.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Iseseisev ÜL/Sammud.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Iseseisev ÜL/Iseseisev ÜL 1/Sammud.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/ÜL 3/Ül4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/ÜL 4/Ül4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygame/Snake/Snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/Snake/Snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Iseseisev ÜL/Iseseisev ÜL 1/Iseseisev ÜL.py" beforeDir="false" afterPath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Iseseisev ÜL/Iseseisev ÜL 1/Iseseisev ÜL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Iseseisev ÜL/Iseseisev ÜL 2/Iseseisev ÜL 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Iseseisev ÜL/Iseseisev ÜL 2/Iseseisev ÜL 2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,12 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673511414674</updated>
-    </task>
-    <task id="LOCAL−00008" summary="k">
-      <created>1674732396731</created>
-      <option name="number" value="LOCAL−00008" />
-      <option name="presentableId" value="LOCAL−00008" />
-      <updated>1674732396731</updated>
     </task>
     <task id="LOCAL−00009" summary="k">
       <created>1674734432816</created>
@@ -501,7 +491,13 @@
       <option name="presentableId" value="LOCAL−00056" />
       <updated>1676444760921</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL−00057" summary="k">
+      <created>1676449764516</created>
+      <option name="number" value="LOCAL−00057" />
+      <option name="presentableId" value="LOCAL−00057" />
+      <updated>1676449764516</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

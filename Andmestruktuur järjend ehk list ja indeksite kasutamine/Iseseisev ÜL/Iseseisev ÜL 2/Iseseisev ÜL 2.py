@@ -1,6 +1,7 @@
 #  Alex Karu
 
 
+
 jarjend = []
 f = open("kilpkonn.txt")
 for rida in f:
