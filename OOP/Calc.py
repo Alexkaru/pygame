@@ -1,6 +1,6 @@
 #Alex Karu
+
 #Funktsioon liidab x- i ja y- i
-import math
 class Calc:
     def add(x, y):
         return x + y
@@ -14,21 +14,14 @@ class Calc:
     def divide(x, y):
         return x / y
     def power(x, y):
-        vastus = x
-        for i in range (y):
+        vastus = 1
+        for i in range(y):
             vastus *= x
-            return vastus
-    def root(x):
-        return math.sqrt(x)
+        return vastus
 
-
-
-num1 = int(input('Mis on esimene number (Ruut juure jaoks sisesta 0): ')) #Küsib kasutajalt esimest arvu
-num2 = int(input('Mis on teine number (Ruut juure jaoks sisesta 0): ')) #Küsib kasutajalt teist arvu
-num3 = int(input('Mis numrist soovite leida ruutjuurt: '))
-
-valik = int(input('1- liitmine, 2- lahutamine, 3-korrutamine, 4- jagamine, 5- astendamine, 6- ruutjuur : ')) #Küsib kasutajalt mida nad sooovivad teha
-
+num1 = int(input('Mis on esimene number: ')) #Küsib kasutajalt esimest arvu
+num2 = int(input('Mis on teine number: ')) #Küsib kasutajalt teist arvu
+valik = int(input('1- liitmine, 2- lahutamine, 3-korrutamine, 4- jagamine, 5- astendamine: ')) #Küsib kasutajalt mida nad sooovivad teha
 #Liidab
 if valik == 1:
     print(Calc.add(num1, num2))
@@ -43,8 +36,5 @@ if valik == 4:
     print(Calc.divide(num1, num2))
 if valik == 5:
     print(Calc.power(num1, num2))
-if valik == 6:
-    print(Calc.root(num3))
-
 
 

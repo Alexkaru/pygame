@@ -31,7 +31,7 @@ turtle.bgcolor(b)
 turtle.title(a)
 aken = turtle.Screen()
 k = turtle.Turtle()
-k.speed(1)
+k.speed(0)
 
 
 for i in range(kordade_arv):

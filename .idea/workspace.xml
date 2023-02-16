@@ -4,7 +4,7 @@
     <list default="true" id="00cdaf68-a243-4a0f-9f0e-b0997f758beb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Iseseisev ÜL/Iseseisev ÜL 2/Iseseisev ÜL 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Iseseisev ÜL/Iseseisev ÜL 2/Iseseisev ÜL 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Iseseisev ÜL/Iseseisev ÜL 2/kilpkonn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Andmestruktuur järjend ehk list ja indeksite kasutamine/Iseseisev ÜL/Iseseisev ÜL 2/kilpkonn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Calc.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,12 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673511414674</updated>
-    </task>
-    <task id="LOCAL−00011" summary="k">
-      <created>1674820727814</created>
-      <option name="number" value="LOCAL−00011" />
-      <option name="presentableId" value="LOCAL−00011" />
-      <updated>1674820727814</updated>
     </task>
     <task id="LOCAL−00012" summary="k">
       <created>1674820744177</created>
@@ -497,7 +491,13 @@
       <option name="presentableId" value="LOCAL−00059" />
       <updated>1676453570930</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL−00060" summary="k">
+      <created>1676459491286</created>
+      <option name="number" value="LOCAL−00060" />
+      <option name="presentableId" value="LOCAL−00060" />
+      <updated>1676459491286</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
