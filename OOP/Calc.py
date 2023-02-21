@@ -1,7 +1,6 @@
 #Alex Karu
-
-#Funktsioon liidab x- i ja y- i
 class Calc:
+    # Funktsioon liidab x- i ja y- i
     def add(x, y):
         return x + y
     #funktsioon lahutab y- i x- ist
@@ -34,6 +33,7 @@ if valik == 3:
 #jagab
 if valik == 4:
     print(Calc.divide(num1, num2))
+#Astendab
 if valik == 5:
     print(Calc.power(num1, num2))
 
