@@ -14,8 +14,8 @@ blue = (50, 153, 213)
 snakle = (204, 0, 153)
 
 # ekraani suurused
-dis_width = 900
-dis_height = 600
+dis_width = 640
+dis_height = 480
 
 # teeb ekraani ja lisab sellele pealkirja
 dis = pygame.display.set_mode((dis_width, dis_height))
@@ -131,7 +131,9 @@ def manguloop():
             foody = round(random.randrange(0, dis_height - snake_block) / 10.0) * 10.0
             ussi_pikkus += 1
 
-        clock.tick(snake_speed)
+
+
+            clock.tick(snake_speed)
 
     pygame.quit()
     quit()
