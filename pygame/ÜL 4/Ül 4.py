@@ -6,6 +6,8 @@ pygame.init()
 clock = pygame.time.Clock()
 screen = pygame.display.set_mode([640, 480])
 
+punaneposx = 290
+
 sinine_auto = pygame.image.load("f1_sinine.jpg")
 sinine_auto = pygame.transform.scale(sinine_auto, [60, 150])
 sinine_posx, sinine_posy = 170, -210
@@ -16,7 +18,6 @@ sinine_posx2, sinine_posy2 = 420, -300
 
 kiirus = 3
 score_font = pygame.font.SysFont("times New Roman", 30)
-
 
 
 def skoor(score):
@@ -38,7 +39,6 @@ while not mang_labi:
         sinine_posy = -210
         lopp_skoor += 1
 
-
     if sinine_posy2 >= 480:
         sinine_posy2 = -300
         lopp_skoor += 1
@@ -58,7 +58,13 @@ while not mang_labi:
 
     punane_auto = pygame.image.load("f1_punana.jpg")
     punane_auto = pygame.transform.scale(punane_auto, [60, 150])
-    screen.blit(punane_auto, [290, 310])
+    screen.blit(punane_auto, [punaneposx, 310])
+
+    key = pygame.key.get_pressed()  # saame vajutatud klahvi
+    if key[pygame.K_LEFT]:  # kui vasak klahv
+        punaneposx -= 5  # liigutame autot vasakule
+    if key[pygame.K_RIGHT]:  # kui parem klahv
+        punaneposx += 5  # liigutame autot paremale
 
     skoor(lopp_skoor)
 
