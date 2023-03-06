@@ -48,6 +48,8 @@ while not gameover:  # kordub kuni gameover muutuja on väär
         kiirus_x = -kiirus_x  # muudab see oma suunda
     if ball_y > screenY-ball_img.get_rect().height or ball_y < 0:  # kui pall puudutab ekraani ülemist või alumist äärt
         kiirus_y = -kiirus_y  # muudab see oma suunda
+    if ball_y > screenY - ball_img.get_rect().height:
+        skoor -= 1
 
     if pall.colliderect(pad_rect) and kiirus_y > 0:  # kui palli kordinaadi ristküllik puutub aluse kordinaadi ristküllikut
         kiirus_y = -kiirus_y  # muudab see suunda

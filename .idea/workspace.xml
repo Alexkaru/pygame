@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="00cdaf68-a243-4a0f-9f0e-b0997f758beb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame/ÜL 5/ÜL5.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/ÜL 5/ÜL5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pygame/ÜL 6/ÜL 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/ÜL 6/ÜL 6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -201,12 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673511414674</updated>
-    </task>
-    <task id="LOCAL−00021" summary="k">
-      <created>1675670213784</created>
-      <option name="number" value="LOCAL−00021" />
-      <option name="presentableId" value="LOCAL−00021" />
-      <updated>1675670213784</updated>
     </task>
     <task id="LOCAL−00022" summary="k">
       <created>1675755625157</created>
@@ -496,7 +491,13 @@
       <option name="presentableId" value="LOCAL−00069" />
       <updated>1678102118475</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL−00070" summary="k">
+      <created>1678102840851</created>
+      <option name="number" value="LOCAL−00070" />
+      <option name="presentableId" value="LOCAL−00070" />
+      <updated>1678102840866</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

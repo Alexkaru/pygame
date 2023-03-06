@@ -69,6 +69,7 @@ while not gameover:  # kordub kuni gameover muutuja on väär
         pygame.mixer.Sound.play(Hit_effect)  # ja mängib löömis hääle
 
     if ball_y > screenY - ball_img.get_rect().height:  # Kui pall puudutab alumist äärt
+        skoor += 1
         pygame.mixer.music.stop()  # lõppetab tagatausta muusika
         pygame.mixer.music.load("GAME_OVER.mp3")  # mängib fail heli effekti
         pygame.mixer.music.play(1)  # mängib seda ühekorra
