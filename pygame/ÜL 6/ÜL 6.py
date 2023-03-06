@@ -1,6 +1,7 @@
 # Impordime vajalikud moodulid
 import pygame
 import sys
+import time
 pygame.init()  # alustame pygame'i
 
 screenX = 640  # ekraani laius
@@ -68,7 +69,12 @@ while not gameover:  # kordub kuni gameover muutuja on väär
         pygame.mixer.Sound.play(Hit_effect)  # ja mängib löömis hääle
 
     if ball_y > screenY - ball_img.get_rect().height:  # Kui pall puudutab alumist äärt
-        gameover = True
+        pygame.mixer.music.stop()  # lõppetab tagatausta muusika
+        pygame.mixer.music.load("GAME_OVER.mp3")  # mängib fail heli effekti
+        pygame.mixer.music.play(1)  # mängib seda ühekorra
+        pygame.mixer.music.set_volume(.5)  # muudab helitugevust
+        time.sleep(1.6)  # ootab 1.6 sekundit
+        gameover = True  # lõppetab mängu ja suleb akna
 
     if pall.colliderect(pad_rect) and kiirus_y > 0:  # kui palli kordinaadi ristküllik puutub aluse kordinaadi ristküllikut
         kiirus_y = -kiirus_y  # muudab see suunda

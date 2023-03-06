@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00cdaf68-a243-4a0f-9f0e-b0997f758beb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pygame/ÜL 6/ÜL 6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame/ÜL 6/ÜL 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/ÜL 6/ÜL 6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,24 +201,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673511414674</updated>
-    </task>
-    <task id="LOCAL−00018" summary="k">
-      <created>1675423737216</created>
-      <option name="number" value="LOCAL−00018" />
-      <option name="presentableId" value="LOCAL−00018" />
-      <updated>1675423737216</updated>
-    </task>
-    <task id="LOCAL−00019" summary="k">
-      <created>1675423803437</created>
-      <option name="number" value="LOCAL−00019" />
-      <option name="presentableId" value="LOCAL−00019" />
-      <updated>1675423803437</updated>
-    </task>
-    <task id="LOCAL−00020" summary="k">
-      <created>1675426605379</created>
-      <option name="number" value="LOCAL−00020" />
-      <option name="presentableId" value="LOCAL−00020" />
-      <updated>1675426605379</updated>
     </task>
     <task id="LOCAL−00021" summary="k">
       <created>1675670213784</created>
@@ -496,7 +478,25 @@
       <option name="presentableId" value="LOCAL−00066" />
       <updated>1678099557442</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL−00067" summary="k">
+      <created>1678101949411</created>
+      <option name="number" value="LOCAL−00067" />
+      <option name="presentableId" value="LOCAL−00067" />
+      <updated>1678101949411</updated>
+    </task>
+    <task id="LOCAL−00068" summary="k">
+      <created>1678101980222</created>
+      <option name="number" value="LOCAL−00068" />
+      <option name="presentableId" value="LOCAL−00068" />
+      <updated>1678101980222</updated>
+    </task>
+    <task id="LOCAL−00069" summary="k">
+      <created>1678102118475</created>
+      <option name="number" value="LOCAL−00069" />
+      <option name="presentableId" value="LOCAL−00069" />
+      <updated>1678102118475</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
