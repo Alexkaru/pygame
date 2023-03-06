@@ -43,6 +43,10 @@ while not gameover:  # kordub kuni gameover muutuja on väär
                 kiirus_pad = 3  # siis paneme aluse paremale liikuma
             elif event.key == pygame.K_LEFT:  # ja kui see klahv on vasak nool
                 kiirus_pad = -3  # siis paneme aluse vasakule liikuma
+            if event.key == pygame.K_d:  # ja kui see klahv d
+                kiirus_pad = 3  # siis paneme aluse paremale liikuma
+            elif event.key == pygame.K_a:  # ja kui see klahv on a
+                kiirus_pad = -3  # siis paneme aluse vasakule liikuma
 
     pall = pygame.Rect(ball_x, ball_y, 20, 20)  # palli asukoha seadistamine
     screen.blit(ball_img, pall)  # palli asukoha muutmine
