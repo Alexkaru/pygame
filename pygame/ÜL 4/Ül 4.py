@@ -5,7 +5,7 @@ import sys
 
 pygame.init()  # alustame pygame'i
 screen = pygame.display.set_mode((640, 480))  # loome ekraani
-pygame.display.set_caption("ÜÖ 4 Alex Karu")  # lisame pealkirja
+pygame.display.set_caption("ÜL 4 Alex Karu")  # lisame pealkirja
 clock = pygame.time.Clock()  # Loome 'clock' objekti
 skoor = 0  # loome skoori
 

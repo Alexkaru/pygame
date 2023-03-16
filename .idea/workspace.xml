@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="00cdaf68-a243-4a0f-9f0e-b0997f758beb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygame/ÜL 6/ÜL 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/ÜL 6/ÜL 6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame/Snake/Snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/Snake/Snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame/ÜL 4/Ül 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame/ÜL 4/Ül 4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/alex.karu/Desktop/pythonProject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -201,12 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673511414674</updated>
-    </task>
-    <task id="LOCAL−00023" summary="k">
-      <created>1675755955049</created>
-      <option name="number" value="LOCAL−00023" />
-      <option name="presentableId" value="LOCAL−00023" />
-      <updated>1675755955049</updated>
     </task>
     <task id="LOCAL−00024" summary="k">
       <created>1675756692668</created>
@@ -496,7 +491,13 @@
       <option name="presentableId" value="LOCAL−00071" />
       <updated>1678104724593</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL−00072" summary="k">
+      <created>1678107563432</created>
+      <option name="number" value="LOCAL−00072" />
+      <option name="presentableId" value="LOCAL−00072" />
+      <updated>1678107563432</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
